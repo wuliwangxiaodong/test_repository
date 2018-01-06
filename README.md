@@ -1,3 +1,8 @@
-# My Awesome Book
+#                             小组成员名单
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+![](/assets/import.png谷艳         物理学类2017级2017物理学类1班 韩金炜     物理学类2017级2017物理学类1班 王攀宇     物理学类2017级2017物理学类4班 王天奇     物理学类2017级2017物理学类4班 王伟峰     物理学类2017级2017物理学类4班 王晓宇     物理学类2017级2017物理学类4班 杨倬颖     生物学萃英班2016级2016生物学萃英班)
+
+##     王小东   物理学类2017级2017级物理学类4班
+
+
+

@@ -16,4 +16,6 @@
 * [PPT15](ppt15.md)
 * [PPT16](ppt16.md)
 * [PPT17](ppt17.md)
+* [小组个人报告](xiaozugerenbaogao.md)
+* [王小东](wang-xiao-dong.md)
 
